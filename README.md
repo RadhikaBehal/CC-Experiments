@@ -10,7 +10,7 @@ This repository contains my C++ solutions to Competitive Coding and LeetCode pro
 - STL (`unordered_map`, `unordered_set`)
 
 ## Solved Problems
-- 217. Contains Duplicate
-- 219. Contains Duplicate II
+217. Contains Duplicate
+219. Contains Duplicate II
 
 More solutions will be added as I continue my DSA journey.
